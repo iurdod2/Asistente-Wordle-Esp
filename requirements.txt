@@ -3,3 +3,4 @@ ipywidgets
 notebook
 pandas
 numpy
+tensorflow
